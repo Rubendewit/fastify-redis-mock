@@ -4,7 +4,7 @@ Fastify Redis mock connection plugin, with this you can share the same Redis moc
 
 This package is useful if you wish to unittest your Fastify project, without the need to run Redis itself.
 
-Full credit goes to the [Fastify](https://github.com/fastify) team for building [fastify-redis](https://github.com/fastify/fastify-redis), and [stripsan](https://github.com/stipsan) for building [ioredis-mock](https://github.com/stipsan/ioredis-mock).
+Full credit goes to the [Fastify](https://github.com/fastify) team for building [fastify-redis](https://github.com/fastify/fastify-redis), and [stipsan](https://github.com/stipsan) for building [ioredis-mock](https://github.com/stipsan/ioredis-mock).
 
 For documentation, please refer to either the [Fastify-redis docs](https://github.com/fastify/fastify-redis#readme), or [ioredis-mock docs](https://github.com/stipsan/ioredis-mock#readme).
 
