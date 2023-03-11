@@ -25,13 +25,13 @@
   },
   "homepage": "https://github.com/Rubendewit/fastify-redis-mock#readme",
   "devDependencies": {
-    "fastify": "^3.18.1",
-    "standard": "^16.0.3",
-    "tap": "^15.0.9"
+    "fastify": "^4.14.1",
+    "standard": "^17.0.0",
+    "tap": "^16.3.4"
   },
   "dependencies": {
-    "fastify-plugin": "^3.0.0",
-    "ioredis": "^4.27.6",
-    "ioredis-mock": "^5.6.0"
+    "fastify-plugin": "^4.5.0",
+    "ioredis": "^5.3.1",
+    "ioredis-mock": "^8.2.6"
   }
 }
